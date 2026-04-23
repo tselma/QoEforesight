@@ -21,3 +21,5 @@ factors. From the ablation studies, the contribution of multi-modal fusion of ap
 improvement in 𝑅2 over single-modality baselines is discovered, along with HDDE contributing +8.7%, and
 self-healing improving up to +15.2%. These findings indicate that QoE-foresight is a suitable and scalable
 option for real-time deployment in challenging environments.
+
+QoE-Foresight demo available at https://bit.ly/QoEforesight
